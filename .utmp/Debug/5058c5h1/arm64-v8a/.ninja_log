@@ -1,0 +1,12 @@
+# ninja log v5
+42	554	7640663065064333	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c6ba7cf147f085c1
+555	991	7640663067488510	E:/American-Greetings-Test/American Greetings/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5058c5h1/obj/arm64-v8a/libswappywrapper.so	a1507831022dc32b
+22	1877	7640663077742422	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ab4255617a8ba84
+33	1920	7640663077941889	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1807a9b7d05cf24b
+14	1933	7640663078430797	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2d68b8d5ada5208d
+1	1963	7640663078849688	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8f820f26a44305d3
+38	2040	7640663079967611	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8e7aeca9de00489b
+10	2047	7640663079987563	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	981d8dad278278c0
+18	2150	7640663081061078	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4ec513239a580c19
+6	2337	7640663082856682	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d7fa1dccc48306b2
+2337	2457	7640663084212855	E:/American-Greetings-Test/American Greetings/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5058c5h1/obj/arm64-v8a/libgame.so	8e13d9c680d6fb4b
